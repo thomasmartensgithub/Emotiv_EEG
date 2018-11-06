@@ -1,0 +1,8 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(377,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+  MentalCommandControl.cpp
+  MentalCommandDemo.cpp
+  Socket.cpp
+c:\users\jelle\downloads\community-sdk-master\examples_basic\c++\mentalcommanddemo\socket.cpp(314): warning C4996: 'gethostbyname': Use getaddrinfo() or GetAddrInfoW() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\um\winsock2.h(2218): note: see declaration of 'gethostbyname'
+  Generating Code...
+  MentalCommandDemo.vcxproj -> C:\Users\jelle\Downloads\community-sdk-master\examples_basic\C++\MentalCommandDemo\../../../bin/win32\MentalCommandDemo.exe
