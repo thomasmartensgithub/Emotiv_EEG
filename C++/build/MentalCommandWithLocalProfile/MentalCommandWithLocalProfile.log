@@ -1,5 +1,0 @@
-﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(377,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
-  MentalCommandWithLocalProfile.cpp
-c:\users\jelle\downloads\community-sdk-master\examples_basic\c++\mentalcommandwithlocalprofile\mentalcommandwithlocalprofile.cpp(193): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\string.h(90): note: see declaration of 'strcat'
-  MentalCommandWithLocalProfile.vcxproj -> C:\Users\jelle\Downloads\community-sdk-master\examples_basic\C++\MentalCommandWithLocalProfile\../../../bin/win32\MentalCommandWithLocalProfile.exe
